@@ -73,6 +73,6 @@ Please note that the impact to percentage passing is roughly calculated using No
 * No signigicant impact to average score
 
 ## Challenge Assignments
-* For each output from DataFrames, please check "PyCitySchools_Challenge.ipynb"
+* For each output from DataFrames, please check "PyCitySchools_Challenge.ipynb" or following link: https://nbviewer.jupyter.org/github/TaishiMatsuda/School_District_Analysis/blob/master/PyCitySchools_Challenge.ipynb
 * Why do we take average of average when creating the summaries by school type, spending per student & school size? Wouldn't it be better to cut & categorize the "school_data_complete_df" instead of "per_school_summary_df"? For example;
     * As removing the 9th graders results has almost no impact to the average scores of Thomas High School, there would also be no impact to average scores for each summaries.
