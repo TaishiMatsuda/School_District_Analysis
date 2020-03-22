@@ -19,7 +19,7 @@ Handling of Data:
 NOTE: The scores of the ninth graders at Thomas High School are ignored for calculation of average scores. However other values such as the number of students are included in the calculation. (These students will be considered as failing the tests)
 
 ## 1. Impact to Overall Performance
-
+[google]()
 
 ## 2. Impact to 9th Graders
 
